@@ -1,4 +1,4 @@
-# CodeCademy Python first project
+# CodeCademy Python First Project
 
 I created a fictional furniture store called Lovely Loveseats for Neat Suites on Fleet Street. With my newfound knowledge of Python programming, I build a system to help speed up the process of creating receipts for the customers.
 
